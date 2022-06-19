@@ -13,7 +13,7 @@
 
 When looking at the entire dataset the variance level meets the 100 pounds per square inch variance limit. However considering when split into three random lots there is a large variance in lot3 that is above the 100 pound limit, there is a possibility that a third of the lot does not comply with the variance limit. 
 ## T-Tests on Suspension Coils
-![image](https://user-images.githubusercontent.com/100727593/174497513-dca609dd-b52e-475a-a351-cc9822ac1167.png)
+![image](https://user-images.githubusercontent.com/100727593/174499776-7f26d0ea-52f8-47d0-b81a-fc26f0573ee2.png)
 
 With a p-value of 0.06 we fail to reject the null hypothesis.
 
